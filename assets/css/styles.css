@@ -60,3 +60,4 @@ a{text-underline-offset:3px}
 .hero-photo .hero-bg{object-position:center 40%}
 .hero-inner h1,.hero-inner p{text-shadow:0 2px 14px rgba(0,0,0,.45)}
 @media(max-width:800px){.hero-photo::before{background:linear-gradient(180deg,rgba(9,12,13,.25) 0%,rgba(9,12,13,.55) 45%,rgba(9,12,13,.8) 100%)}}
+@media(max-width:800px){.hero-photo .hero-bg{object-position:15% 50%}}
