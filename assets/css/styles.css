@@ -56,3 +56,7 @@ a{text-underline-offset:3px}
 .product-img.photo img{object-fit:cover;padding:0}
 
 .guide-steps{padding-left:1.2rem}.guide-steps li{margin:0 0 .8rem;color:#cbc6bb}.guide-steps b{color:#fff}.note{font-size:.85rem;color:var(--muted);margin-top:18px}.faq{display:grid;gap:12px}
+.hero-photo::before{background:linear-gradient(100deg,rgba(9,12,13,.78) 0%,rgba(9,12,13,.5) 45%,rgba(9,12,13,.08) 100%)}
+.hero-photo .hero-bg{object-position:center 40%}
+.hero-inner h1,.hero-inner p{text-shadow:0 2px 14px rgba(0,0,0,.45)}
+@media(max-width:800px){.hero-photo::before{background:linear-gradient(180deg,rgba(9,12,13,.25) 0%,rgba(9,12,13,.55) 45%,rgba(9,12,13,.8) 100%)}}
