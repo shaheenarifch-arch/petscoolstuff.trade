@@ -26,5 +26,19 @@
     "google_quality_passed": false,
     "eeat_score": 91,
     "seo_aeo_score": 7.68
+  },
+  {
+    "keyword": "automatic litter box that reduces ammonia smell",
+    "title": "Automatic Litter Box That Reduces Ammonia Smell: Guide",
+    "description": "Looking for an automatic litter box that reduces ammonia smell? Compare odor-control features, sealed waste bins, and filters before buying.",
+    "file": "automatic-litter-box-that-reduces-ammonia-smell.html",
+    "date": "2026-10-24",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.6,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.57
   }
 ]
