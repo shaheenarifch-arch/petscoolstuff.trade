@@ -40,5 +40,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 8.57
+  },
+  {
+    "keyword": "Smart pet tech complete guide: litter boxes, fountains, feeders and odor control",
+    "title": "Smart Pet Tech Guide: Litter Boxes & Odor Control",
+    "description": "Smart pet tech complete guide: litter boxes, fountains, feeders and odor control, with a decision framework, common mistakes, and FAQs for US pet owners.",
+    "file": "smart-pet-tech-complete-guide-litter-boxes-fountains-feeders-and-odor-control.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.64,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.55
   }
 ]
