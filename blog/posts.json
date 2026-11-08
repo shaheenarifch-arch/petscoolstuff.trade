@@ -54,5 +54,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.55
+  },
+  {
+    "keyword": "self-cleaning litter box for large cats and heavy use",
+    "title": "Self-Cleaning Litter Box for Large Cats and Heavy Use",
+    "description": "A data-based look at the self-cleaning litter box for large cats and heavy use category, covering capacity, features, enclosures, and what to verify.",
+    "file": "self-cleaning-litter-box-for-large-cats-and-heavy-use.html",
+    "date": "2026-11-08",
+    "archetype": "industry_report",
+    "archetype_confidence": 0.66,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 91,
+    "seo_aeo_score": 8.51
   }
 ]
