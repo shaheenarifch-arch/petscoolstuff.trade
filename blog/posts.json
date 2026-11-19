@@ -68,5 +68,19 @@
     "google_quality_passed": true,
     "eeat_score": 91,
     "seo_aeo_score": 8.51
+  },
+  {
+    "keyword": "traveling with a pet for the holidays",
+    "title": "Traveling With a Pet for the Holidays: Checklist",
+    "description": "Traveling with a pet for the holidays? Use this car and flight checklist: vet visit, health certificates, carriers, packing list and holiday hazards.",
+    "file": "holiday-pet-travel-checklist-car-and-flight.html",
+    "date": "2026-11-19",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.6,
+    "risk_level": "medium",
+    "requires_human_review": true,
+    "google_quality_passed": false,
+    "eeat_score": 91,
+    "seo_aeo_score": 7.68
   }
 ]
